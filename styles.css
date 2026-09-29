@@ -1,0 +1,10 @@
+@import url("./node_modules/bootstrap/dist/css/bootstrap.min.css");
+
+.pokemon-card {
+    cursor: pointer;
+}
+
+.pokemon-card img {
+    width: 120px;
+    margin: 0 auto;
+}
